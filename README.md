@@ -45,8 +45,8 @@ Before you begin, ensure you have the following installed on your system (Window
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url> # Replace with your GitHub repo URL
-    cd Osdag-web # Or your repository folder name
+    git clone https://github.com/Chethan-4255/Chethan-4255-Osdag-web-beam-splice-by-chethan-vasthaw-FOSSEE.git
+    cd Osdag-web
     ```
 
 2.  **Checkout Branch:** (If applicable, based on the original task)
