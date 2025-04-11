@@ -1,5 +1,7 @@
 # Osdag-Web: Beam Splice End Plate Module (FOSSEE Screening Task)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Introduction
 
 This repository contains the development work for a **Beam Splice End Plate connection module** implemented within the **Osdag-Web** framework. This project was undertaken as part of the screening task for the **FOSSEE Summer Fellowship 2024 at IIT Bombay**.
